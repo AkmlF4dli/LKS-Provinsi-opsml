@@ -2,7 +2,7 @@
 
 ## Form Data
 Input your data in here:<br/>
-Name : Muhammad Akmal Fadli<br/>
+Name : Muhammad Akmal Fadli <br/>
 YourCity : Jakarta Selatan
 
 ## Application Port
@@ -20,7 +20,6 @@ YourCity : Jakarta Selatan
 - API_GATEWAY_URL=your url api gateway
 - SNS_TOPIC_ARN=your sns topic
 - ATHENA_SCHEMA_NAME=your db athena
-
 
 
 ## Environment for Github Action
